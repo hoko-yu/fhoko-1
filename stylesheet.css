@@ -1,0 +1,34 @@
+title {
+  color: #02ccba;
+  font-size:50px;
+  border-bottom:5px solid pink;
+  margin-bottom: 5px;
+  padding-left: 200px;
+  }
+
+.subtitle{
+   color:black;
+   font-size:30px;
+   margin-bottom: 60px;
+   padding-left: 400px;
+}
+.header{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header-logo{
+   color:black;
+    border-bottom:3px solid black;
+     float:left;
+    font-size: 25px;
+    margin-right: 60px;
+}
+li{
+  color:black;
+  font-size: 20px;
+   display: inline;
+   padding-right:30px;
+}
+
+.main img{
+   width: 200px;
+}   
